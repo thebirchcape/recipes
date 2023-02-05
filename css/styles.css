@@ -1,0 +1,30 @@
+body {
+    font-family: monospace;
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+}
+
+.recipe {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+.smaller {
+    width: 600px;
+}
